@@ -14,4 +14,4 @@ https://blog.ctglobalservices.com/
 
 
 # Join Cloud & Datacenter User Group for more! 
-[www.cdug.dk](www.cdug.dk)
+[www.cdug.dk](http://www.cdug.dk)
